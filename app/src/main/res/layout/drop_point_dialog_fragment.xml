@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edit_name"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_gravity="center" android:orientation="vertical"
+    android:paddingLeft="15dp"
+
+    android:paddingTop="15dp"
+    android:paddingRight="15dp"
+    android:paddingBottom="15dp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/lbl_latitude_dialog" android:text="Latitude"
+        android:layout_width="wrap_content" android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/txt_lat_dialog"
+        android:layout_width="match_parent"  android:layout_height="wrap_content"
+        android:inputType="text"
+    android:imeOptions="actionDone" />
+
+    <TextView
+        android:id="@+id/lbl_lon_dlg"
+        android:text="Longitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/txt_lon_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:text="Address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:id="@+id/txt_address_dialog" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/btnSaveDialog" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/btnCancelDialog"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
