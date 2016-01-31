@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.spasi.android.VideoStreamingActivity"
+    tools:showIn="@layout/activity_video_streaming">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:id="@+id/videoView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textAlignment="center"
+        android:foregroundGravity="fill_horizontal|center_vertical|clip_horizontal|center|fill_vertical|clip_vertical|center_horizontal|fill" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Global TV"
+        android:id="@+id/btnGlobalTV"
+        android:layout_below="@+id/videoView"
+        android:layout_alignLeft="@+id/videoView"
+        android:layout_alignStart="@+id/videoView" />
+</RelativeLayout>
