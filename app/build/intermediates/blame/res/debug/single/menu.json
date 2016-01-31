@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\MY_Android\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\MY_Android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
