@@ -18,15 +18,21 @@ import java.io.InputStream;
  */
 public class GeoLocation {
 
+    private Double lat;
+    private Double lng;
+
+    public GeoLocation(Double lat, Double lng) {
+        this.lat = lat;
+        this.lng = lng;
+    }
+
     /**
      * Get location info
-     * @param lat
-     * @param lng
      * @return
      */
-    public JSONObject getLocationInfo(String lat, String lng) {
+    private JSONObject getLocationInfo() {
 
-        HttpGet httpGet = new HttpGet("http://maps.google.com/maps/api/geocode/json?latlng="+lat+","+lng+"&sensor=true");
+        HttpGet httpGet = new HttpGet("http://maps.google.com/maps/api/geocode/json?latlng="+this.lat.toString()+","+this.lng.toString()+"&sensor=true");
         HttpClient client = new DefaultHttpClient();
         HttpResponse response;
         StringBuilder stringBuilder = new StringBuilder();
@@ -54,12 +60,10 @@ public class GeoLocation {
 
     /**
      * Get location address
-     * @param lat
-     * @param lng
      * @return
      */
-    public String getLocationAddress(String lat, String lng) {
-        JSONObject ret = getLocationInfo(lat,lng);
+    public String getLocationAddress() {
+        JSONObject ret = getLocationInfo();
         JSONObject location;
         String address = null;
         try {
