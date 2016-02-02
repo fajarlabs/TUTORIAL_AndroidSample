@@ -6,7 +6,7 @@ import java.util.Calendar;
 /**
  * Created by Spasi on 1/18/2016.
  */
-public class MY_FormatDate {
+public class FormatDate {
 
     /**
      * Indonesia Date Format
