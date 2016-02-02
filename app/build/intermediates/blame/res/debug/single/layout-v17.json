@@ -8,6 +8,10 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout-v17\\mr_media_route_list_item.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout-v17\\mr_media_route_list_item.xml"
     }

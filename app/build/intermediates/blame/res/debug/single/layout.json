@@ -8,28 +8,48 @@
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\activity_event_add.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event_add.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_event_add.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gps.xml",
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\content_gps.xml"
     },
     {
-        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -48,12 +68,24 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rsa.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_rsa.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
@@ -76,12 +108,16 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -100,20 +136,28 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gps.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_gps.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -160,12 +204,12 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -180,12 +224,24 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\content_web_service.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radio_streaming.xml",
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\activity_radio_streaming.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -212,12 +268,20 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gmaps.xml",
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\activity_gmaps.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_web_service.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_web_service.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocode.xml",
@@ -228,12 +292,24 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\content_radio_streaming.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
@@ -260,8 +336,16 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_gps.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radio_streaming.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_radio_streaming.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
@@ -308,12 +392,12 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocode.xml",
@@ -328,12 +412,20 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -368,12 +460,12 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -388,6 +480,14 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gmaps.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_gmaps.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_call.xml"
     },
@@ -396,8 +496,16 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -416,6 +524,10 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_service.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\activity_web_service.xml"
     },
@@ -428,12 +540,20 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_radio_streaming.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_radio_streaming.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rsa.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_rsa.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -460,12 +580,20 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\activity_call.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -488,8 +616,20 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_gps.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_gps.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -498,6 +638,10 @@
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
@@ -512,6 +656,10 @@
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\activity_event_add.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
@@ -520,8 +668,16 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_video_streaming.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_streaming.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_video_streaming.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gps.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\activity_gps.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -534,6 +690,10 @@
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
@@ -588,6 +748,10 @@
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\content_radio_streaming.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
@@ -598,6 +762,14 @@
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_call.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_call.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_video_streaming.xml",
@@ -612,8 +784,24 @@
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\activity_call.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -624,12 +812,20 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radio_streaming.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_radio_streaming.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -660,8 +856,16 @@
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_video_streaming.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_video_streaming.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -672,8 +876,16 @@
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\content_radio_streaming.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_service.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_web_service.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_web_service.xml",
         "source": "D:\\MY_Android\\app\\src\\main\\res\\layout\\content_web_service.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -708,12 +920,28 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_service.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_web_service.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_event_add.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_event_add.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -726,6 +954,10 @@
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_event_add.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\layout\\content_event_add.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -744,12 +976,28 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activity_tombol_kotak_kotak.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_activity_tombol_kotak_kotak.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -760,12 +1008,20 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
@@ -784,12 +1040,24 @@
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocode.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_geocode.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
@@ -800,8 +1068,20 @@
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gmaps.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\src\\main\\res\\layout\\activity_gmaps.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_point_dialog_fragment.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\drop_point_dialog_fragment.xml"
     },
     {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -830,5 +1110,9 @@
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
         "source": "D:\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\android_repository\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     }
 ]
