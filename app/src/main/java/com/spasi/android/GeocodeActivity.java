@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.spasi.android.util.GeoLocation;
+
 import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
@@ -31,7 +33,10 @@ public class GeocodeActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                getMyLocationAddress();
+                GeoLocation gl = new GeoLocation(-6.121435,106.774124);
+                String addressLocation = gl.getLocationAddress();
+                myAddress.setText(addressLocation);
+                //getMyLocationAddress();
             }
         });
 
