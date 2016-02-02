@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".controller.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -32,11 +32,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".GPSActivity"
+            android:name=".controller.gps.GPSActivity"
             android:label="@string/title_activity_gps2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".CallActivity"
+            android:name=".controller.call.CallActivity"
             android:label="@string/title_activity_call"
             android:theme="@style/AppTheme.NoActionBar" />
         <!--
@@ -52,30 +52,30 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".GMapsActivity"
+            android:name=".controller.maps.GMapsActivity"
             android:label="@string/title_activity_gmaps" />
         <activity
-            android:name=".RadioStreamingActivity"
+            android:name=".controller.radio.RadioStreamingActivity"
             android:label="@string/title_activity_radio_streaming"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".GeocodeActivity" />
+        <activity android:name=".controller.maps.GeocodeActivity" />
         <activity
-            android:name=".WebServiceActivity"
+            android:name=".controller.webservice.WebServiceActivity"
             android:label="@string/title_activity_web_service"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".EventAddActivity"
+            android:name=".controller.event.EventAddActivity"
             android:label="@string/title_activity_event_add"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".VideoStreamingActivity"
+            android:name=".controller.video.VideoStreamingActivity"
             android:label="@string/title_activity_video_streaming"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Splash"
+            android:name=".controller.login.Splash"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name=".Activity_tombol_kotak_kotak" />
-        <activity android:name=".RSAActivity"></activity>
+        <activity android:name=".controller.tombol_kotak.Activity_tombol_kotak_kotak" />
+        <activity android:name=".controller.rsa.RSAActivity"></activity>
     </application>
 
 </manifest>
