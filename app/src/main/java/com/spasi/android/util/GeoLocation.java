@@ -1,6 +1,7 @@
 package com.spasi.android.util;
 
 import android.util.Log;
+import android.widget.Toast;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -30,9 +31,12 @@ public class GeoLocation {
      * Get location info
      * @return
      */
+
     private JSONObject getLocationInfo() {
 
-        HttpGet httpGet = new HttpGet("http://maps.google.com/maps/api/geocode/json?latlng="+this.lat.toString()+","+this.lng.toString()+"&sensor=true");
+        String linkUrl = "http://maps.google.com/maps/api/geocode/json?latlng="+this.lat.toString()+","+this.lng.toString()+"&sensor=true";
+        System.out.println(linkUrl);
+        HttpGet httpGet = new HttpGet(linkUrl);
         HttpClient client = new DefaultHttpClient();
         HttpResponse response;
         StringBuilder stringBuilder = new StringBuilder();
@@ -63,14 +67,15 @@ public class GeoLocation {
      * @return
      */
     public String getLocationAddress() {
-        JSONObject ret = getLocationInfo();
-        JSONObject location;
+        JSONObject ret = null;
+        JSONObject location = null;
         String address = null;
         try {
+            ret = getLocationInfo();
             location = ret.getJSONArray("results").getJSONObject(0);
             address = location.getString("formatted_address");
             Log.d("Address", "Formattted address : " + address);
-        } catch (JSONException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
