@@ -3,6 +3,7 @@ package com.spasi.android;
 import android.location.Address;
 import android.location.Geocoder;
 import android.os.Bundle;
+import android.os.StrictMode;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
@@ -24,6 +25,11 @@ public class GeocodeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_geocode);
+
+        // Strict Policy
+        // Alternatif selain menggunakan Geocode dengan maps/api/
+        StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+        StrictMode.setThreadPolicy(policy);
 
         myLocation= (Button) findViewById(R.id.location);
         myAddress = (TextView)findViewById(R.id.address);
