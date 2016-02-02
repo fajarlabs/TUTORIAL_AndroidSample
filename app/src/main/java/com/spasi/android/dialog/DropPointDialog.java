@@ -1,23 +1,17 @@
 package com.spasi.android.dialog;
 
 import android.app.DialogFragment;
-import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 
 import com.google.android.gms.maps.model.LatLng;
 import com.spasi.android.GMapsActivity;
-import com.spasi.android.MainActivity;
 import com.spasi.android.R;
-import com.spasi.android.util.MY_StaticData;
 
 /**
  * Created by Spasi on 1/15/2016.
