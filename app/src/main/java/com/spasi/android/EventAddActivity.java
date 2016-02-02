@@ -15,7 +15,7 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TimePicker;
 
-import com.spasi.android.util.MY_FormatDate;
+import com.spasi.android.util.FormatDate;
 
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -116,7 +116,7 @@ public class EventAddActivity extends AppCompatActivity {
 
         public void onDateSet(DatePicker view, int year, int month, int day) {
             // Do something with the date chosen by the user
-            _editDateEvent.setText(MY_FormatDate.indonesianDateFormat(year,month,day,"/"));
+            _editDateEvent.setText(FormatDate.indonesianDateFormat(year, month, day, "/"));
         }
 
     }
