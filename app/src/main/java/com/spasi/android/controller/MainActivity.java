@@ -12,6 +12,7 @@ import android.widget.Button;
 
 import com.spasi.android.R;
 import com.spasi.android.controller.call.CallActivity;
+import com.spasi.android.controller.camera.CameraActivity;
 import com.spasi.android.controller.event.EventAddActivity;
 import com.spasi.android.controller.gps.GPSActivity;
 import com.spasi.android.controller.login.Splash;
@@ -179,6 +180,16 @@ public class MainActivity extends AppCompatActivity  {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getBaseContext(),SQLiteActivity.class);
+                startActivity(i);
+            }
+        });
+
+        // Button SQLiteModel
+        Button btnCamera = (Button)findViewById(R.id.btnCamera);
+        btnCamera.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getBaseContext(),CameraActivity.class);
                 startActivity(i);
             }
         });

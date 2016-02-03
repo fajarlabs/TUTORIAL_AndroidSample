@@ -379,6 +379,7 @@
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
     <string name="title_activity_call">CallActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
     <string name="title_activity_event_add">EventAddActivity</string>
     <string name="title_activity_gmaps">Google Map</string>
     <string name="title_activity_gps2">GPSActivity2</string>

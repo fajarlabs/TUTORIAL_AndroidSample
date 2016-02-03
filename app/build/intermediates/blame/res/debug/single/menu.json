@@ -12,6 +12,10 @@
         "source": "E:\\android_repository\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_camera.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\menu\\menu_camera.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\src\\main\\res\\menu\\main.xml"
     },

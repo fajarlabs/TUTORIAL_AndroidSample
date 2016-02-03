@@ -140,6 +140,12 @@
                 android:text="SQL Lite (DATABASE SQLITE)"
                 android:id="@+id/btnSQLite" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Camera"
+                android:id="@+id/btnCamera" />
+
         </LinearLayout>
     </ScrollView>
 

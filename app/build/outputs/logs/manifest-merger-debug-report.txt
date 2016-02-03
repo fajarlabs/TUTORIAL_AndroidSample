@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:2:1-85:12
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:2:1-95:12
 	package
 		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from E:\android_repository\app\src\main\AndroidManifest.xml
@@ -13,8 +13,20 @@ ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:2:1-85:12
 	android:versionCode
 		INJECTED from E:\android_repository\app\src\main\AndroidManifest.xml
 		INJECTED from E:\android_repository\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:8:19-67
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:10:5-79
 MERGED from [com.google.android.gms:play-services-ads:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-maps:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\AndroidManifest.xml:20:5-78
@@ -25,25 +37,25 @@ MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\android_
 MERGED from [com.google.android.gms:play-services-nearby:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\AndroidManifest.xml:19:5-79
 MERGED from [com.google.android.gms:play-services-maps:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:10:22-76
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:6:5-98
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:11:5-98
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:6:22-95
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:11:22-95
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.CALL_PHONE
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:8:5-69
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:13:5-69
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:8:22-66
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:13:22-66
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.INTERNET
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-ads:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\AndroidManifest.xml:21:5-67
 MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\AndroidManifest.xml:19:5-67
@@ -56,23 +68,23 @@ MERGED from [com.google.android.gms:play-services-measurement:8.3.0] E:\android_
 MERGED from [com.google.android.gms:play-services-wallet:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-maps:8.3.0] E:\android_repository\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:11:5-81
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:12:5-75
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:17:5-75
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:12:22-72
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:17:22-72
 permission#com.example.permission.MAPS_RECEIVE
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:14:5-16:47
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:19:5-21:47
 	android:protectionLevel
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:16:9-44
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:21:9-44
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:15:9-59
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:20:9-59
 application
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:18:5-83:19
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:23:5-93:19
 MERGED from [com.android.support:design:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
@@ -176,119 +188,129 @@ MERGED from [com.android.support:support-v4:23.1.1] E:\android_repository\app\bu
 MERGED from [com.android.support:appcompat-v7:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:26:9-41
 	android:supportsRtl
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:27:9-35
 	android:allowBackup
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:20:9-43
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:25:9-43
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:28:9-40
 activity#com.spasi.android.controller.MainActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:24:9-33:20
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:29:9-38:20
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:26:13-45
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:31:13-45
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:27:13-56
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:32:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:25:13-52
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:30:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:36:27-74
 activity#com.spasi.android.controller.gps.GPSActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:34:9-37:59
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:39:9-42:59
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:36:13-56
-	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:37:13-56
-	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:35:13-55
-activity#com.spasi.android.controller.call.CallActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:38:9-41:59
-	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:40:13-56
-	android:theme
 		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:41:13-56
-	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:39:13-57
-meta-data#com.google.android.geo.API_KEY
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:50:9-52:55
-	android:value
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:52:13-52
-	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:51:13-58
-activity#com.spasi.android.controller.maps.GMapsActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:54:9-56:60
-	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:56:13-57
-	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:55:13-58
-activity#com.spasi.android.controller.radio.RadioStreamingActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:57:9-60:59
-	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:59:13-67
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:60:13-56
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:42:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:58:13-68
-activity#com.spasi.android.controller.maps.GeocodeActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:61:9-69
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:40:13-55
+activity#com.spasi.android.controller.call.CallActivity
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:43:9-46:59
+	android:label
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:45:13-56
+	android:theme
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:46:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:61:19-66
-activity#com.spasi.android.controller.webservice.WebServiceActivity
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:44:13-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:55:9-57:55
+	android:value
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:56:13-58
+activity#com.spasi.android.controller.maps.GMapsActivity
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:59:9-61:60
+	android:label
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:61:13-57
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:60:13-58
+activity#com.spasi.android.controller.radio.RadioStreamingActivity
 ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:62:9-65:59
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:64:13-63
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:64:13-67
 	android:theme
 		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:65:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:63:13-69
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:63:13-68
+activity#com.spasi.android.controller.maps.GeocodeActivity
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:66:9-69
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:66:19-66
+activity#com.spasi.android.controller.webservice.WebServiceActivity
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:67:9-70:59
+	android:label
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:69:13-63
+	android:theme
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:68:13-69
 activity#com.spasi.android.controller.event.EventAddActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:66:9-69:59
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:71:9-74:59
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:68:13-61
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:73:13-61
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:69:13-56
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:74:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:67:13-62
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:72:13-62
 activity#com.spasi.android.controller.video.VideoStreamingActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:70:9-73:59
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:75:9-78:59
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:72:13-67
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:77:13-67
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:73:13-56
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:78:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:71:13-68
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:76:13-68
 activity#com.spasi.android.controller.login.Splash
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:74:9-76:72
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:79:9-81:72
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:76:13-69
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:81:13-69
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:75:13-52
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:80:13-52
 activity#com.spasi.android.controller.tombol_kotak.Activity_tombol_kotak_kotak
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:77:9-89
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:82:9-89
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:77:19-86
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:82:19-86
 activity#com.spasi.android.controller.rsa.RSAActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:78:9-64
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:83:9-64
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:78:19-61
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:83:19-61
 activity#com.spasi.android.controller.sqlite.SQLiteActivity
-ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:79:9-82:68
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:84:9-87:59
 	android:label
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:81:13-58
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:86:13-58
 	android:theme
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:82:13-56
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:87:13-56
 	android:name
-		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:80:13-61
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:85:13-61
+activity#com.spasi.android.controller.camera.CameraActivity
+ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:88:9-92:59
+	android:screenOrientation
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:91:13-50
+	android:label
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:90:13-58
+	android:theme
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from E:\android_repository\app\src\main\AndroidManifest.xml:89:13-61
 uses-sdk
 INJECTED from E:\android_repository\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:23.1.1] E:\android_repository\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
