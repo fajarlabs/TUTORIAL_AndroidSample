@@ -1,16 +1,14 @@
 package com.spasi.android.controller.sqlite;
 
-import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.os.Environment;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 
 import com.spasi.android.R;
+import com.spasi.android.model.SQLiteModel;
 
 // http://www.ttsberita.com/2014/05/menggunakan-database-sqlite-di-android.html
 // http://www.tutorialspoint.com/android/android_sqlite_database.htm
@@ -30,64 +28,29 @@ public class SQLiteActivity extends AppCompatActivity {
                 onBackPressed();
             }
         });
-        getSupportActionBar().setTitle("Spasi Android | SQLite");
+        getSupportActionBar().setTitle("Spasi Android | SQLiteModel");
 
-    }
+        final SQLiteModel sqlmodel = new SQLiteModel();
 
-    /**
-     * Cara membuat database
-     */
-    private void contohMembuatDatabase(){
-        String kartuMemory = Environment.getExternalStorageDirectory().toString() ;
-        String databasePart = kartuMemory + "/contohdb.sqlite";
+        // Button to insert data to sqlite
+        Button btnInsertText = (Button) findViewById(R.id.btnInsertText);
+        final TextView editTextInsert = (TextView) findViewById(R.id.editTextInsert);
+        btnInsertText.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sqlmodel.insertData(editTextInsert.getText().toString());
+            }
+        });
 
-        SQLiteDatabase db = SQLiteDatabase.openOrCreateDatabase(databasePart, null);
-        String sql = "CREATE TABLE IF NOT EXISTS  contoh_table "+
-                "(_id INTEGER PRIMARY KEY," +
-                "contohtext TEXT )";
-        db.execSQL(sql);
-        db.close();
-    }
-
-    /**
-     * Memasukkan teks kedalam database
-     * @param text
-     */
-    private void Masukantext(String text){
-
-        String kartuMemory = Environment.getExternalStorageDirectory().toString() ;
-        String databasePart = kartuMemory + "/contohdb.sqlite";
-
-        SQLiteDatabase db = SQLiteDatabase.openOrCreateDatabase(databasePart, null);
-        String sql = "INSERT INTO contoh_table (contohtext) "
-                + " VALUES(?)";
-
-        db.execSQL(sql, new String[]{text});
-        db.close();
-
-    }
-
-    /**
-     * Mengambil Text berdasarkan id-nya
-     * @param id
-     * @return
-     */
-    private String ambilText(String id){
-        String result = null;
-
-        String kartuMemory = Environment.getExternalStorageDirectory().toString() ;
-        String databasePart = kartuMemory + "/contohdb.sqlite";
-
-        SQLiteDatabase db = SQLiteDatabase.openOrCreateDatabase(databasePart, null);
-
-        String sql = "SELECT * FROM contoh_table WHERE _id = ?";
-        Cursor rs =   db.rawQuery(sql, new String[]{id});
-        if(rs.moveToFirst()){
-            result = rs.getString(rs.getColumnIndex("contohtext"));
-        }
-
-        rs.close();
-        db.close();
-        return result;
+        // Button to get data from sqlite
+        Button btnAmbil = (Button) findViewById(R.id.btnAmbil);
+        final TextView editTextTampil = (TextView) findViewById(R.id.editTextTampil);
+        final TextView editTextID = (TextView) findViewById(R.id.editTextID);
+        btnAmbil.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                editTextTampil.setText(sqlmodel.getData(editTextID.getText().toString()));
+            }
+        });
     }
 }

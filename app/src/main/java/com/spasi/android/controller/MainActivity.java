@@ -173,7 +173,7 @@ public class MainActivity extends AppCompatActivity  {
             }
         });
 
-        // Button SQLite
+        // Button SQLiteModel
         Button btnSQLite = (Button)findViewById(R.id.btnSQLite);
         btnSQLite.setOnClickListener(new View.OnClickListener() {
             @Override

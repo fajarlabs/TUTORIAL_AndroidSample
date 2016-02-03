@@ -17,40 +17,42 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:paddingTop="3dp">
+            android:paddingTop="3dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp">
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
-                android:text="CALL"
+                android:text="CALL (TOMBOL TELEPHON)"
                 android:id="@+id/btnCall" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
-                android:text="GPS"
+                android:text="GPS (STREAM LAT - LNG)"
                 android:id="@+id/btnGPS" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
-                android:text="Google Maps"
+                android:text="Google Maps (MARKER DAN LOKASI ALAMAT)"
                 android:id="@+id/btnGMaps" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
-                android:text="Radio Streaming"
+                android:text="Radio Streaming (RADIO RODJA)"
                 android:id="@+id/btnRadioStreaming" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Sound"
+                android:text="Sound (PEMUTAR SUARA)"
                 android:id="@+id/btnSound"
                 android:layout_below="@+id/btnRadioStreaming"
                 android:layout_alignParentLeft="true"
@@ -61,7 +63,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Loading Spinner"
+                android:text="Loading Spinner (EFEK LOADING)"
                 android:id="@+id/btnSpinner"
                 android:layout_below="@+id/btnVideoStreaming"
                 android:layout_alignParentLeft="true"
@@ -72,7 +74,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Video Streaming"
+                android:text="Video Streaming (GLOBAL TV)"
                 android:id="@+id/btnVideoStreaming"
                 android:layout_below="@+id/btnAddEvent"
                 android:layout_alignParentLeft="true"
@@ -83,7 +85,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="ADD EVENT"
+                android:text="FORM EVENT (SCROLL VIEW)"
                 android:id="@+id/btnAddEvent"
                 android:layout_below="@+id/btnWebService"
                 android:layout_alignParentLeft="true"
@@ -105,7 +107,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Geocode"
+                android:text="Geocode (LOKASI ALAMAT)"
                 android:id="@+id/btnGeocode"
                 android:layout_below="@+id/btnSound"
                 android:layout_alignParentLeft="true"
@@ -116,7 +118,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Splash Screen"
+                android:text="Splash Screen (EFEK SPLASH)"
                 android:id="@+id/btnSplash"
                 android:singleLine="false" />
 
@@ -129,13 +131,13 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RSA Test"
+                android:text="RSA Test (DATA TERENKRIPSI)"
                 android:id="@+id/btnRSA" />
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="SQL Lite"
+                android:text="SQL Lite (DATABASE SQLITE)"
                 android:id="@+id/btnSQLite" />
 
         </LinearLayout>

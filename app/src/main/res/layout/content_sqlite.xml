@@ -12,4 +12,65 @@
     tools:context="com.spasi.android.controller.sqlite.SQLiteActivity"
     tools:showIn="@layout/activity_sqlite">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Database and Table"
+        android:id="@+id/btnCreateDBandTbl" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="40px"
+        android:layout_below="@+id/btnCreateDBandTbl"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/space" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/space"
+        android:id="@+id/editTextInsert" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Masukkan Teks"
+        android:id="@+id/btnInsertText"
+        android:layout_below="@+id/editTextInsert"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="40px"
+        android:id="@+id/space2"
+        android:layout_below="@+id/btnInsertText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextID"
+        android:layout_below="@+id/space2"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAmbil"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editTextID"
+        android:layout_alignParentLeft="true"
+        android:text="Ambil Berdasarkan ID" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTampil"
+        android:layout_below="@+id/btnAmbil"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 </RelativeLayout>
