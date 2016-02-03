@@ -75,7 +75,11 @@
             android:name=".controller.login.Splash"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".controller.tombol_kotak.Activity_tombol_kotak_kotak" />
-        <activity android:name=".controller.rsa.RSAActivity"></activity>
+        <activity android:name=".controller.rsa.RSAActivity" />
+        <activity
+            android:name=".controller.sqlite.SQLiteActivity"
+            android:label="@string/title_activity_sqlite"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

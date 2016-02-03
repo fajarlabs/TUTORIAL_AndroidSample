@@ -132,6 +132,12 @@
                 android:text="RSA Test"
                 android:id="@+id/btnRSA" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SQL Lite"
+                android:id="@+id/btnSQLite" />
+
         </LinearLayout>
     </ScrollView>
 

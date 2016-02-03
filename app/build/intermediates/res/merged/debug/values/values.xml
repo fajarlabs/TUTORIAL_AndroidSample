@@ -383,6 +383,7 @@
     <string name="title_activity_gmaps">Google Map</string>
     <string name="title_activity_gps2">GPSActivity2</string>
     <string name="title_activity_radio_streaming">RadioStreamingActivity</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
     <string name="title_activity_video_streaming">VideoStreamingActivity</string>
     <string name="title_activity_web_service">WebServiceActivity</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

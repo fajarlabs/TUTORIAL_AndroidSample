@@ -19,6 +19,7 @@ import com.spasi.android.controller.maps.GMapsActivity;
 import com.spasi.android.controller.maps.GeocodeActivity;
 import com.spasi.android.controller.radio.RadioStreamingActivity;
 import com.spasi.android.controller.rsa.RSAActivity;
+import com.spasi.android.controller.sqlite.SQLiteActivity;
 import com.spasi.android.controller.tombol_kotak.Activity_tombol_kotak_kotak;
 import com.spasi.android.controller.video.VideoStreamingActivity;
 import com.spasi.android.controller.webservice.WebServiceActivity;
@@ -168,6 +169,16 @@ public class MainActivity extends AppCompatActivity  {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getBaseContext(),RSAActivity.class);
+                startActivity(i);
+            }
+        });
+
+        // Button SQLite
+        Button btnSQLite = (Button)findViewById(R.id.btnSQLite);
+        btnSQLite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getBaseContext(),SQLiteActivity.class);
                 startActivity(i);
             }
         });

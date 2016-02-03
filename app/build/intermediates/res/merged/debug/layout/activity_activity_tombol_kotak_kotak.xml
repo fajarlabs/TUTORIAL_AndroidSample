@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity_tombol_kotak_kotak"
+    tools:context=".controller.tombol_kotak.Activity_tombol_kotak_kotak"
     android:gravity="center_horizontal"
     android:paddingTop="15dp">
 

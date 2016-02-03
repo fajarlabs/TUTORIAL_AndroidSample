@@ -38,7 +38,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.spasi.android.MainActivity"
+            android:name="com.spasi.android.controller.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -48,11 +48,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.spasi.android.GPSActivity"
+            android:name="com.spasi.android.controller.gps.GPSActivity"
             android:label="@string/title_activity_gps2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.spasi.android.CallActivity"
+            android:name="com.spasi.android.controller.call.CallActivity"
             android:label="@string/title_activity_call"
             android:theme="@style/AppTheme.NoActionBar" />
         <!--
@@ -68,30 +68,34 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.spasi.android.GMapsActivity"
+            android:name="com.spasi.android.controller.maps.GMapsActivity"
             android:label="@string/title_activity_gmaps" />
         <activity
-            android:name="com.spasi.android.RadioStreamingActivity"
+            android:name="com.spasi.android.controller.radio.RadioStreamingActivity"
             android:label="@string/title_activity_radio_streaming"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.spasi.android.GeocodeActivity" />
+        <activity android:name="com.spasi.android.controller.maps.GeocodeActivity" />
         <activity
-            android:name="com.spasi.android.WebServiceActivity"
+            android:name="com.spasi.android.controller.webservice.WebServiceActivity"
             android:label="@string/title_activity_web_service"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.spasi.android.EventAddActivity"
+            android:name="com.spasi.android.controller.event.EventAddActivity"
             android:label="@string/title_activity_event_add"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.spasi.android.VideoStreamingActivity"
+            android:name="com.spasi.android.controller.video.VideoStreamingActivity"
             android:label="@string/title_activity_video_streaming"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.spasi.android.Splash"
+            android:name="com.spasi.android.controller.login.Splash"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name="com.spasi.android.Activity_tombol_kotak_kotak" />
-        <activity android:name="com.spasi.android.RSAActivity" />
+        <activity android:name="com.spasi.android.controller.tombol_kotak.Activity_tombol_kotak_kotak" />
+        <activity android:name="com.spasi.android.controller.rsa.RSAActivity" />
+        <activity
+            android:name="com.spasi.android.controller.sqlite.SQLiteActivity"
+            android:label="@string/title_activity_sqlite"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

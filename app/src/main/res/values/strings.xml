@@ -8,4 +8,5 @@
     <string name="title_activity_web_service">WebServiceActivity</string>
     <string name="title_activity_event_add">EventAddActivity</string>
     <string name="title_activity_video_streaming">VideoStreamingActivity</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
 </resources>
