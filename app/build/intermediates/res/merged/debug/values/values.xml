@@ -378,6 +378,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
+    <string name="title_activity_button">ButtonActivity</string>
     <string name="title_activity_call">CallActivity</string>
     <string name="title_activity_camera">CameraActivity</string>
     <string name="title_activity_event_add">EventAddActivity</string>

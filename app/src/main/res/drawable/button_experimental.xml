@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- selector position, if button not focus but pressed -->
+    <item android:state_focused="false" android:bottom="48dp" android:state_pressed="true" android:drawable="@drawable/lamp_on" />
+    <!-- Or using other xml to style gradient or etc... -->
+    <!-- <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/button_gradient_experimental" /> -->
+    <!-- <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/button_gradient_experimental" /> -->
+    <item android:drawable="@drawable/lamp_off" />
+</selector>

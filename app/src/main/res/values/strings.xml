@@ -10,4 +10,5 @@
     <string name="title_activity_video_streaming">VideoStreamingActivity</string>
     <string name="title_activity_sqlite">SQLiteActivity</string>
     <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_button">ButtonActivity</string>
 </resources>

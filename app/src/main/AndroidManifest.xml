@@ -27,7 +27,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".controller.MainActivity"
+            android:name=".controller.main.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -57,6 +57,9 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".controller.main.SplashActivity"
+            android:label="Splash" />
+        <activity
             android:name=".controller.maps.GMapsActivity"
             android:label="@string/title_activity_gmaps" />
         <activity
@@ -76,9 +79,6 @@
             android:name=".controller.video.VideoStreamingActivity"
             android:label="@string/title_activity_video_streaming"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".controller.login.Splash"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".controller.tombol_kotak.Activity_tombol_kotak_kotak" />
         <activity android:name=".controller.rsa.RSAActivity" />
         <activity
@@ -90,6 +90,10 @@
             android:label="@string/title_activity_camera"
             android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".controller.button.ButtonActivity"
+            android:label="@string/title_activity_button"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

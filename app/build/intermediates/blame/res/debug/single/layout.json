@@ -200,6 +200,10 @@
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_button.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\activity_button.xml"
+    },
+    {
         "merged": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "E:\\Android Project\\MY_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
@@ -742,6 +746,10 @@
     {
         "merged": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "E:\\Android Project\\android_unit_test\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\android_repository\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_button.xml",
+        "source": "E:\\android_repository\\app\\src\\main\\res\\layout\\content_button.xml"
     },
     {
         "merged": "D:\\MY_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
