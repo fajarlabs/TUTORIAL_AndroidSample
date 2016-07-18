@@ -1,4 +1,3 @@
-# android_unit_test
-Kumpulan script penggunaan API android
-
-Didalamnya terdapat contoh2 sederhana seperti Layout,Maps, TV, Radio dll.
+# Android Code Example
+Android set of code using the API.
+In it there is a simple example such as Layout, Maps, TV, Radio etc.
